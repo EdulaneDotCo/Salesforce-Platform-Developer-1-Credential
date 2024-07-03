@@ -1,3 +1,4 @@
+![30-Days Salesforce Platform Developer I Credential Learning Journey](https://res.cloudinary.com/dj2j9slz5/image/upload/v1720009779/edulane.co-SalesForce-PD-1_m8acjj.png)
 # Salesforce Platform Developer I Credential - 30-Day Learning Plan
 
 This 30-day learning plan is designed to help you prepare for the Salesforce Platform Developer I certification. Each day focuses on specific topics, ensuring comprehensive coverage of all necessary areas.
